@@ -1,0 +1,11 @@
+C:\Users\shafa\source\repos\Projekt2\Projekt2\bin\Debug\Projekt2.exe.config
+C:\Users\shafa\source\repos\Projekt2\Projekt2\bin\Debug\Projekt2.exe
+C:\Users\shafa\source\repos\Projekt2\Projekt2\bin\Debug\Projekt2.pdb
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.AssemblyReference.cache
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.Properties.Resources.resources
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.GenerateResource.cache
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.exe
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.pdb
+C:\Users\shafa\source\repos\Projekt2\Projekt2\obj\Debug\Projekt2.Flappy_Bird_Windows_Form.resources
